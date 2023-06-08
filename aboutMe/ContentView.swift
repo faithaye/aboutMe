@@ -19,7 +19,7 @@ struct ContentView: View {
             VStack {
                 Text("🤣")
                 Button("Me"){
-                    Ye
+                    List ;Ye
                 }
                 .font(.title)
                 .buttonStyle(.borderedProminent)
